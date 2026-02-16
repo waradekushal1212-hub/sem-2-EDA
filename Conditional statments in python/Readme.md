@@ -1,4 +1,4 @@
-# Experiment:7 Conditional statments 
+# Experiment:6 Conditional statments 
 
 In computational logic, **Conditional Statements** act as the steering mechanism for the execution thread. Rather than proceeding linearly, a program utilizes these constructs to evaluate environmental variables and data states, branching into specific sub-routines only when pre-defined boolean thresholds are met.
 
